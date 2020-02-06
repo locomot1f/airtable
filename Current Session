@@ -1,0 +1,10 @@
+IF(FIND("Winter II: Ages 5-7: K-1 (Sunday)",ARRAYJOIN({Region / Class},","))>0,"Winter II: Ages 5-7: K-1 (Sunday)",
+IF(FIND("Winter II: Ages 3-4: Minis (Sunday)",ARRAYJOIN({Region / Class},","))>0,"Winter II: Ages 3-4: Minis (Sunday)",
+IF(FIND("Winter II: Ages 8-14 (Sunday)",ARRAYJOIN({Region / Class},","))>0,"Winter II: Ages 8-14 (Sunday)",
+IF(FIND("Winter II: Ages 5-6: In-House League",ARRAYJOIN({Region / Class},","))>0,"Winter II: Ages 5-6: In-House League",
+IF(FIND("Winter II: Ages 7-8: In-House League",ARRAYJOIN({Region / Class},","))>0,"Winter II: Ages 7-8: In-House League"
+)
+)
+)
+)
+)
